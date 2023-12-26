@@ -12,14 +12,14 @@
 - [Exercise 02: Introduction to Javascript]
 - [Exercise 03: Loops]
 - [Exercise 04: Project 01: Using a for Loop]
-- [Exercise 05: Conditional Statements](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/05-conditional-statements.md)
-- [Exercise 06: While Loops](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/06-while-loops.md)
-- [Exercise 07: Using while loop](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/07-using-while-loop.md)
-- [Exercise 08: More on loops](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/08-more-on-loops.md)
-- [Exercise 09: Arrays](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/09-arrays.md)
-- [Exercise 10: More on Arrays](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/10-more-on-arrays.md)
-- [Exercise 11: Multi Dimensional Arrays](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/11-muli-dimensional-arrays.md)
-- [Exercise 12: More on Arrays](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/12-objects.md)
+- [Exercise 05: Conditional Statements]
+- [Exercise 06: While Loops]
+- [Exercise 07: Using while loop]
+- [Exercise 08: More on loops]
+- [Exercise 09: Arrays]-
+- [Exercise 10: More on Arrays]
+- [Exercise 11: Multi Dimensional Arrays]
+- [Exercise 12: More on Arrays]
 
 ---
 
