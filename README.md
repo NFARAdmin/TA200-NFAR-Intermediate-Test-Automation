@@ -8,10 +8,10 @@
 - [General Information](#general-information)
 - [Technology Used](#technologies-used)
 - [Setup](#setup)
-- [Exercise 01: Saving Screenshots](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/Exercises/01-screenshots.md)
-- [Exercise 02: Introduction to Javascript](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/Exercises/02-intro-to-javascript.md)
-- [Exercise 03: Loops](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/03-loops.md)
-- [Exercise 04: Project 01: Using a for Loop](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/04-using-loops.md)
+- [Exercise 01: Saving Screenshots]
+- [Exercise 02: Introduction to Javascript]
+- [Exercise 03: Loops]
+- [Exercise 04: Project 01: Using a for Loop]
 - [Exercise 05: Conditional Statements](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/05-conditional-statements.md)
 - [Exercise 06: While Loops](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/06-while-loops.md)
 - [Exercise 07: Using while loop](https://github.com/cccareers/TA200-Intermediate-Test-Automation/blob/main/07-using-while-loop.md)
